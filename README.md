@@ -54,3 +54,12 @@ Você pode fazer uma cópia para estudá-la melhor aqui: https://docs.google.com
 Este projeto possui finalidade demonstrativa e faz parte do meu portfólio profissional. Os dados presentes na planilha foram utilizados exclusivamente para fins de apresentação.
 
 <img width="676" height="358" alt="image" src="https://github.com/user-attachments/assets/b4f89f23-cdd1-4b09-adc8-6d8efd8f536a" />
+
+<img width="925" height="358" alt="image" src="https://github.com/user-attachments/assets/bf0f4b74-e7e2-401b-afd6-d5378f434f96" />
+
+<img width="925" height="358" alt="image" src="https://github.com/user-attachments/assets/4c602118-3a38-466b-849e-fa14879889fd" />
+
+<img width="879" height="362" alt="image" src="https://github.com/user-attachments/assets/384503bf-0a74-4737-a7f6-5472e78aa222" />
+
+<img width="648" height="292" alt="image" src="https://github.com/user-attachments/assets/8a3bea4f-236f-49c5-a6f5-4fb6200925e8" />
+
