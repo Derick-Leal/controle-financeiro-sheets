@@ -1,2 +1,62 @@
-# controle-financeiro-sheets
-Planilha de controle financeiro em Google Sheets com dashboard gerencial, contas a pagar e receber, controle de contratos e indicadores financeiros.
+# 📊 Controle Financeiro em Excel
+
+Sistema de controle financeiro desenvolvido em Microsoft Excel para centralizar a gestão financeira de empresas, automatizar processos e fornecer informações que auxiliam na tomada de decisão.
+
+## 📋 Funcionalidades
+
+- Cadastro de clientes: coloque o nome, fase, degrau e tipo de contrato. Irá gerar um ID automático. Minha intenção com esse metódo, foi identificar quantos contratos novos cada cliente vai proporcionar.
+- Controle de contas a pagar: Há um plano de contas categorias e subcategorias. O script irá puxar as subcategorias após você escolher a categoria daquela despesa.
+- Controle de contas a receber: A escolha de ID irá puxar o cliente e os detalhes do contrato. As parcelas, metódo de pagamento e antecipação, podemos escolher manualmente.
+- Registro de notas fiscais emitidas: O iss está na página de configuração. Basta escolher o mês de emissão e irá calcular o ISS das notas.
+- Dashboard financeiro com indicadores: Os indicadores puxam o total a receber e a pagar do mês escolhido. Podemos ver um fluxo de caixa nas datas na linha 1.
+- Área de configurações para parametrização da planilha
+- Organização e consolidação de informações financeiras
+
+## 📁 Estrutura da Planilha
+
+| Aba | Descrição |
+|------|-----------|
+| **NFS_EMITIDAS** | Registro e acompanhamento das notas fiscais emitidas. |
+| **BASE_CONTRATOS** | Cadastro e gerenciamento dos contratos. |
+| **CONFIG** | Configurações e parâmetros utilizados pela planilha. |
+| **CONTAS_A_RECEBER** | Controle dos recebimentos previstos e realizados. |
+| **CONTAS_A_PAGAR** | Controle das despesas e pagamentos. |
+| **DASH_FINANCEIRO** | Dashboard com indicadores e visão consolidada da operação financeira. |
+
+## 🛠️ Recursos Utilizados
+
+- Microsoft Excel
+- Fórmulas avançadas
+- Tabelas estruturadas
+- Validação de dados
+- Dashboard gerencial
+- Organização de bases de dados
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para demonstrar conhecimentos em gestão financeira, automação de planilhas, organização de dados e construção de dashboards gerenciais, competências aplicadas em rotinas de BPO Financeiro, Controladoria, FP&A e Análise Financeira.
+
+## 👨‍💼 Competências Demonstradas
+
+- Gestão financeira
+- Contas a pagar e receber
+- Organização de dados
+- Dashboards gerenciais
+- Indicadores financeiros (KPIs)
+- Automação em Excel
+- Análise financeira
+- Estruturação de processos financeiros
+
+## 📌 Observação
+
+Você pode fazer uma cópia para estudá-la melhor aqui: https://docs.google.com/spreadsheets/d/1VIEIEglL2dr4jC7vUVdepNF7WTPvNCcoV_uvf-fjLXI/copy
+
+Este projeto possui finalidade demonstrativa e faz parte do meu portfólio profissional. Os dados presentes na planilha foram utilizados exclusivamente para fins de apresentação.
+
+<img width="776" height="330" alt="image" src="https://github.com/user-attachments/assets/408eb4c7-afad-44ea-ad8c-220c9017b624" />
+<img width="923" height="346" alt="image" src="https://github.com/user-attachments/assets/c4ea1623-7b2b-41ae-b13a-bd6f1eb59c8f" />
+<img width="927" height="344" alt="image" src="https://github.com/user-attachments/assets/0c3835a2-2c87-45bc-9c05-59721586e449" />
+<img width="878" height="340" alt="image" src="https://github.com/user-attachments/assets/54d4c5a0-7c9d-4d14-942f-3b922b310339" />
+<img width="824" height="341" alt="image" src="https://github.com/user-attachments/assets/d2d6488e-e304-4c15-a250-3927e8b80d3e" />
+
+
