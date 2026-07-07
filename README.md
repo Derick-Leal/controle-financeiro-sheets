@@ -53,4 +53,4 @@ Você pode fazer uma cópia para estudá-la melhor aqui: https://docs.google.com
 
 Este projeto possui finalidade demonstrativa e faz parte do meu portfólio profissional. Os dados presentes na planilha foram utilizados exclusivamente para fins de apresentação.
 
-<img width="776" height="330" alt="image" src="https://github.com/user-attachments/assets/408eb4c7-afad-44ea-ad8c-220c9017b624" />
+<img width="676" height="358" alt="image" src="https://github.com/user-attachments/assets/b4f89f23-cdd1-4b09-adc8-6d8efd8f536a" />
