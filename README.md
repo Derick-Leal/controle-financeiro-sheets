@@ -53,7 +53,7 @@ Você pode fazer uma cópia para estudá-la melhor aqui: https://docs.google.com
 
 Este projeto possui finalidade demonstrativa e faz parte do meu portfólio profissional. Os dados presentes na planilha foram utilizados exclusivamente para fins de apresentação.
 
-<img width="676" height="358" alt="image" src="https://github.com/user-attachments/assets/b4f89f23-cdd1-4b09-adc8-6d8efd8f536a" />
+<img width="484" height="371" alt="image" src="https://github.com/user-attachments/assets/9c977e02-393a-4c1d-99c8-331497947473" />
 
 <img width="925" height="358" alt="image" src="https://github.com/user-attachments/assets/bf0f4b74-e7e2-401b-afd6-d5378f434f96" />
 
